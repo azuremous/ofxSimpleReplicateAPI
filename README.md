@@ -6,4 +6,6 @@ This addon is built using threading to handle requests asynchronously.
 
 ## Dependencies
 
-This addon requires the ofxSimpleRestAPI addon. Make sure to include and set up ofxSimpleRestAPI in your project.
+This addon requires the following addons:
+
+[ofxSimpleRestAPI](https://github.com/azuremous/ofxSimpleRestAPI)
